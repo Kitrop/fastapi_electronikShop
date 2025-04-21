@@ -1,5 +1,3 @@
-# FastElectronik
-
 Магазин электроники на FastAPI с использованием PostgreSQL, Redis и JWT аутентификацией.
 
 ## Технологии
